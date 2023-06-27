@@ -1,0 +1,25 @@
+.heading{
+    
+text-align: center;
+font-size: 40px;
+background-color: red;
+}
+.Navigation{
+background-color: black;
+overflow: hidden;
+    
+}
+.Navigation a{
+display: inline-block;
+margin-top: 0px;
+color: white;
+padding: 12px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-decoration: none;
+
+}
+
+.Navigation a:hover{
+background-color: rgb(182, 185, 183);
+color: black;
+}
